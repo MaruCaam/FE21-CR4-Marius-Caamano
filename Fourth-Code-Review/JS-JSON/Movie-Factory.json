@@ -1,0 +1,40 @@
+let moviesList = `[{
+    "movieName": "A Star is Born",
+    "image": "Imgs/gaga.jpg",
+    "description": "Jackson Jack Maine, a famous country rock singer privately battling an alcohol and drug addiction, plays a concert. His main support is Bobby, his manager and older half-brother. After a show, Jack goes out for drinks and visits a drag bar where he witnesses a tribute performance to Edith Piaf by Ally",
+    "likes": 0
+},
+
+{
+    "movieName": "Cruella",
+    "image": "Imgs/Cruella.jpg",
+    "description": "Estella Miller is a creative child with a talent for fashion but has a cruel streak, leading her mother Catherine to nickname her Cruella. Due to Estella's rebellious nature, Catherine pulls her daughter from school and plans to move to London. On the way there, she stops at a party hosted by the wealthy Baroness von Hellman to ask for financial assistance",
+    "likes": 0
+},
+
+{
+    "movieName": "Avengers ENDGAME",
+    "image": "Imgs/endgame.jpg",
+    "description": "In 2018, twenty-three days after Thanos killed half of all life in the universe, Carol Danvers rescues Tony Stark and Nebula from deep space and they reunite with the remaining Avengers—Bruce Banner, Steve Rogers, Thor, Natasha Romanoff, and James Rhodes—and Rocket on Earth. Locating Thanos on an uninhabited planet, they plan to use the Infinity Stones to reverse his actions, but discover Thanos has already destroyed them to prevent further use. Enraged, Thor decapitates Thanos.",
+    "likes": 0
+},
+
+{
+    "movieName": "Interstellar",
+    "image": "Imgs/interstellar.jpg",
+    "description": "In 2067, crop blights and dust storms threaten humanity's survival. Joseph Cooper, a widowed engineer and former NASA pilot turned farmer, lives with his father-in-law, Donald, his 15-year-old son, Tom Cooper, and 10-year-old daughter, Murphy Murph Cooper. After a dust storm, strange dust patterns inexplicably appear on Murphy's bedroom floor; she attributes the anomaly to a ghost",
+    "likes": 0
+},
+
+{
+    "movieName": "John Wick",
+    "image": "Imgs/John1.jpg",
+    "description": "John Wick loses his wife Helen to a terminal illness. Struggling to cope with her loss, he receives a beagle puppy named Daisy from her that she arranged to send before she died, to help him cope with his grief. Despite John's stoic demeanor, he bonds with the puppy and they spend their day driving around in his vintage 1969 Ford Mustang Mach 1. At a gas station, he encounters a trio of Russian gangsters whose leader Iosef insists on buying his car, which John refuses to sell. That evening the gangsters break into John's home, knock him unconscious, steal his car, and kill Daisy.",
+    "likes": 0
+},
+
+{
+    "movieName": "Rogue One",
+    "image": "Imgs/rogue.jpg",
+    "description": "Research scientist Galen Erso and his family are in hiding on the planet Lah'mu when Imperial weapons developer Orson Krennic arrives to press him into completing the Death Star, a space station-based superweapon capable of destroying entire planets. Galen's wife, Lyra, is killed in the confrontation while their daughter, Jyn, escapes and is rescued by rebel extremist Saw Gerrera. Fifteen years later, cargo pilot Bodhi Rook defects from the Empire, taking a holographic message recorded by Galen to Gerrera on the desert moon Jedha",
+    "likes": 0 }]`
