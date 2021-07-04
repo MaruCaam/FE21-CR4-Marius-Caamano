@@ -1,8 +1,10 @@
-.footer p {
-  position: fixed;
-  height: 100px;
-  bottom: 0;
-  width: 100%;
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.footer {
+  background-color: black;
 }
 
 #Card-Container {
@@ -12,4 +14,7 @@
   -ms-flex-wrap: wrap;
       flex-wrap: wrap;
 }
-/*# sourceMappingURL=Custom.css.map */
+
+#header p {
+  background-color: black;
+}/*# sourceMappingURL=Custom.css.map */
